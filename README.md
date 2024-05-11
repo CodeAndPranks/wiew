@@ -1,2 +1,5 @@
-# test2
-Warning:Try to fill up memory and crash browser.Works on Crome,edge some more.   Last Browser-test before use e.g transparant 'overlay' to prevent ManUdt-fans from leaving page with the beautiful 7-0 winn-photo and its looong text.(The ManUdt script.) --> https://codeandpranks.github.io/test2
+# test2 : Warning ⚠️ 
+Will fill up memory and crash browsers Works on Crome,edge & some more.Prevent fans from use phone i e.g a deebatt. I used href_'blank' to try to open a reload script in new tab att same time as'fill up.It did the trix:)
+Restart phone,open new browser
+Upper right corner show nr of pages.
+Open and "x" out --> https://codeandpranks.github.io/test2
