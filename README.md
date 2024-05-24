@@ -1,11 +1,7 @@
-# test2 : Warning ⚠️ 
-Will fill up memory and crash browsers.Works on Crome,edge ++.
-Stop fans from use phone in e.g a debatt.Works in sms & msg too.
-I used href_'blank' who try to open a reload script in new tab att same time as 'fill up' storage goes.
-It finally did the trix:)
-Disclaimer:Use at your own risk ⚠️ 
-
-To stop it on tab/lapTop 'x' tab.
-From phone,open a new browser.
-Upper right corner show nr of pages.
-Push,they open,and "x" out;  --> https://codeandpranks.github.io/test2
+# test2 : ⚠️Test tool for Crome & egde browswers.⚠️
+Disclaimer:Use at your own risk.Will fill up memory and crash browser.⚠️
+If used to crash-out annoying peeople on phone in sosial/media-debatt,or via sms or msg links,you are responible!
+A href_'blank' try opend a loop-script in new page but memory's filled up.A photo hang until browser crash.
+Disclaimer:Use at your own risk. ⚠️
+Pc/laptop/pad:Restart.Phone Chrome app:Restart and open new browser by press & hold the Chrome icon,
+Upper right corner show numberes of pages.'X' out --> https://codeandpranks.github.io/test2
