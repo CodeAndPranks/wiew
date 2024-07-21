@@ -4,4 +4,4 @@ If used to crash-out annoying peeople on phone in sosial/media-debatt,or via sms
 A href_'blank' try opend a loop-script in new page but memory's filled up.A photo hang until browser crash.
 Disclaimer:Use at your own risk. ⚠️
 Pc/laptop/pad:Restart.Phone Chrome app:Restart and open new browser by press & hold the Chrome icon,
-Upper right corner show numberes of pages.'X' out --> https://codeandpranks.github.io/test2
+Upper right corner show numberes of pages.'X' out --> https://codeandpranks.github.io/wiew 
